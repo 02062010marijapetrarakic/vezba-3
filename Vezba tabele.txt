@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <h1> Uplod your Cv</h1>
+            <table> border ="1"></table> 
+            <tr>
+                <th> Choise file</th>
+                <br>
+                <br>
+        <h2> Pofile</h2>
+        <table> </table>
+            </table>
+    
+    </head>
+</html>
